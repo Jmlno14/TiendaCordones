@@ -22,8 +22,7 @@ a su conveniencia.
 
 ### PSEUDOCODIGO
 
-Algoritmo TiendaCordones
-    Definir opcion Como Entero
+
 
     tienda <- Tienda()
 
@@ -46,15 +45,7 @@ Algoritmo TiendaCordones
                 Escribir("Opción inválida. Por favor, ingrese una opción válida.")
         Fin Segun
     Hasta Que opcion = 3 
-FinAlgoritmo
 
-Algoritmo Tienda
-    Procedimiento verCatalogoCordones()
-        Escribir("=== Catálogo de Cordones ===")
-        Escribir("1. Cordones Negros")
-        Escribir("2. Cordones Blancos")
-        Escribir("3. Cordones Rojos")
-    FinProcedimiento
 
     Procedimiento comprarCordones()
         Definir opcion Como Entero
@@ -77,10 +68,10 @@ Algoritmo Tienda
                 Escribir("Opción inválida. Por favor, ingrese una opción válida.")
         Fin Segun
     FinProcedimiento
-FinAlgoritmo
+
 
 ## JIRA
-![JIRA](img/jira.png)
+![JIRA](jira.png)
 
 ## CASO DE USUARIO
-![CASO DE USUARIO](img/caso.png)
+![CASO DE USUARIO](caso.png)

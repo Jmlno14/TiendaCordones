@@ -75,3 +75,6 @@ a su conveniencia.
 
 ## CASO DE USUARIO
 ![CASO DE USUARIO](caso.png)
+
+## DIAGRAMA DE FLUJO
+![DIAGRAMA DE FLUJO](diagra.png)
